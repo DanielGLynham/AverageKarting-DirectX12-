@@ -1,0 +1,54 @@
+﻿  compilation object save succeeded; see F:\Projects\Averagekarting\P4G-AverageKarting\bin\data\PSLitNoTex.cso
+  compilation object save succeeded; see F:\Projects\Averagekarting\P4G-AverageKarting\bin\data\PSLitTex.cso
+  compilation object save succeeded; see F:\Projects\Averagekarting\P4G-AverageKarting\bin\data\PSUnlitNoTex.cso
+  compilation object save succeeded; see F:\Projects\Averagekarting\P4G-AverageKarting\bin\data\PSUnlitTex.cso
+  compilation object save succeeded; see F:\Projects\Averagekarting\P4G-AverageKarting\bin\data\TextureVS.cso
+  AudioMgr.cpp
+  AudioMgrFMOD.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\AudioMgrFMOD.cpp(5,10): fatal error C1083: Cannot open include file: 'fmod.hpp': No such file or directory
+  BallSim.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\ShaderTypes.h(6,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  D3D.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\D3DUtil.h(9,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  D3DUtil.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\D3DUtil.h(9,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  Error.cpp
+  File.cpp
+  FPSCamera.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\FPSCamera.h(5,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  FX.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\FX.cpp(4,10): fatal error C1083: Cannot open include file: 'DDSTextureLoader.h': No such file or directory
+  Game.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\FPSCamera.h(5,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  GeometryBuilder.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\d3d.h(6,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  HighScores.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\ShaderTypes.h(6,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  Input.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\D3D.h(6,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  Instructions.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\ShaderTypes.h(6,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  main.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\D3D.h(6,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  Menu.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\FPSCamera.h(5,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  Mesh.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\Mesh.cpp(1,10): fatal error C1083: Cannot open include file: 'Importer.hpp': No such file or directory
+  Model.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\ShaderTypes.h(6,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  ModeManager.cpp
+  Obstacle.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\D3D.h(6,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  Generating Code...
+  Compiling...
+  PickUp.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\D3D.h(6,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  ShaderTypes.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\ShaderTypes.h(6,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  Timer.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\Timer.cpp(8,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\Timer.cpp(16,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+  UtilsDefines.cpp
+  WindowUtils.cpp
+F:\Projects\Averagekarting\P4G-AverageKarting\CollisionSOL\D3D.h(6,10): fatal error C1083: Cannot open include file: 'SimpleMath.h': No such file or directory
+  Generating Code...
